@@ -1,0 +1,47 @@
+
+
+.logo{
+    padding: 10px 0 10px 0;
+    background-color: yellow;
+}
+
+.header{
+    padding: 10px 0 10px 0;
+    background-color:rgb(29, 238, 29);
+}
+
+.menu{
+    height: 85%;
+    background-color:rgb(29, 238, 203);
+}
+
+.column{
+    margin: 20px 0 0 0;
+    background-color:rgb(248, 141, 221)
+}
+
+.table{
+    margin: 20px 0 20px 0;
+    background-color:rgb(239, 141, 248)
+}
+
+form{
+    
+    height: 200px;
+    border: 1px solid gray;
+}
+
+.footer{
+    position: fixed;
+    height: 5%;
+    bottom: 0;
+    background-color:rgb(248, 141, 141)
+}
+
+.btn{
+
+}
+
+.one{
+    
+}
